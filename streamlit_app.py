@@ -57,7 +57,7 @@ with st.expander("📅 צפה בלוח המלא (תכנית חודשית)"):
 # הוספת לינקים מהירים לרכישה (שיהיו לך תמיד זמינים להעתקה)
 st.sidebar.header("לינקים מהירים")
 st.sidebar.write("[עברית](https://www.e-vrit.co.il/Product/39390/%D7%94%D7%90%D7%9E%D7%AA_%D7%A9%D7%94%D7%A1%D7%AA%D7%A8%D7%AA%D7%99)")
-st.sidebar.write("[נט-בוק](https://www.netbook.co.il/Book.aspx?id=15502")
+st.sidebar.write("[נט-בוק](https://www.netbook.co.il/Book.aspx?id=15502)")
 st.write(f"**להכין לשבוע הבא:** ")    
 st.write(" סרטון עם רבקה בברלין מול הפסל")
 st.write("טמפלט לציטוטים")
